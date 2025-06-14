@@ -1,17 +1,16 @@
 
 # Tarefa: Roteiro de FreeRTOS #1 - EmbarcaTech 2025
 
-Autor: **Insira Seu Nome**
+Autor: Thiago Young de Azevedo
 
 Curso: Residência Tecnológica em Sistemas Embarcados
 
 Instituição: EmbarcaTech - HBr
 
-Campinas, ___ de 2025
+Campinas, Junho de 2025
 
 ---
-
-<!-- INSIRA O CONTEÚDO DO SEU README AQUI! -->
+## Atividade Roterizada com FreeRTOS na BitDogLab
 
 ---
 
