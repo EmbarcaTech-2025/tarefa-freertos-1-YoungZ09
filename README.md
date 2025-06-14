@@ -78,5 +78,6 @@ O uso de polling constante sem `vTaskDelay()` (ou com baixa prioridade) pode lev
 - `pico/types.h`: tipos padrão do SDK.
 - `stdio.h`: entrada/saída padrão (debug com `printf`).
 
+---
 ## 📜 Licença
 GNU GPL-3.0.
